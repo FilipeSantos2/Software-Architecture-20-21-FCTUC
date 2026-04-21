@@ -1,8 +1,5 @@
 # Software Architecture - 20/21 (FCTUC)
 
-## Propósito
-O objetivo deste Software Requirements Specification (SRS) é definir e detalhar os requisitos associados ao sistema Flip Framework. Com este documento pretendemos clarificar quais as funcionalidades associadas ao sistema e os requisitos associados, de acordo com as necessidades do potencial cliente e utilizadores. Sendo este documento criado no contexto da unidade curricular de Engenharia de Requisitos, o público alvo deste documento são os docentes da cadeira, Mário Rela e Bruno Cabral que irão avaliar o desempenho do grupo. A Universidade de Coimbra também é considerada como público alvo, já que é o potencial cliente do sistema.
-
 ## Âmbito do Projeto
 A Flip Framework será uma aplicação web que irá auxiliar a aprendizagem no ensino à distância. Com esta aplicação pretende-se englobar num único sistema, a partilha de conteúdos programáticos (áudio, vídeo, texto, imagens, código, entre outros essenciais). Por outro lado, oferece à comunidade um espaço destinado a preencher lacunas de outras aplicações/serviços, tais como esclarecimento de dúvidas, auxílio ao trabalho em grupo e comunicação entre alunos e docentes.
 
