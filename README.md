@@ -31,16 +31,6 @@ A nossa aplicação pretende integrar-se num espaço de elevada relevância dado
 
 • Resolução de novos desafios - A plataforma também pretende resolver problemas que surgiram com o contexto de pandemia atual como o esclarecimento de dúvidas, auxílio ao trabalho em grupo e facilitar a comunicação em geral entre estudante-docente - problemas que ainda não foram adequadamente resolvidos pelas soluções atuais. Pretendemos, neste sentido, dinamizar a interação dos utilizadores à distância através da possibilidade de formação de grupos com docentes e/ou alunos sob a forma de um chat e também conter uma secção específica na plataforma para colocamento de dúvidas a um docente, sem estar em aula e sem ter de marcar uma reunião.
 
-## Funções do Produto
-
-As funcionalidades definidas foram criadas em função dos utilizadores identificados: estudante e docente. Devido à natureza de ambos terá de existir funcionalidades tanto exclusivas, como mútuas entre estes.
-
-A plataforma pretende providenciar a ambos os utilizadores a capacidade de criar e gerir grupos de trabalho. Estes podem ser criados e constituídos por alunos e/ou docentes. Após a formação de um grupo os utilizadores poderão interagir via chat e partilhar materiais. Outra funcionalidade em comum será uma agenda, onde os utilizadores poderão visualizar e adicionar compromissos à mesma. A plataforma também terá um sistema onde ambos os utilizadores poderão receber notificações.
-
-Relativamente ao aluno, a plataforma permitirá a este colocar dúvidas, foras da aula, a um docente através de um espaço designado para o efeito. Neste poderá associar docentes, descrever a sua dúvida e anexar ficheiros se necessário. O aluno também terá de ser capaz de visualizar materiais e trabalhos submetidos pelos docentes. A última funcionalidade identificada é um serviço vídeo-aulas onde o aluno poderá juntar-se a aulas actualmente em curso e interagir com colegas e docente.
-
-As funcionalidades identificadas para o docente foram o esclarecimento de dúvidas de alunos fora da aula em um espaço designado onde poderá, opcionalmente, marcar uma reunião remota com o aluno em causa. O docente também poderá iniciar uma vídeo-aula, associar participantes à mesma e gerir a assiduidade. O docente poderá adicionar materiais, trabalhos e sumários em espaços designados. Por último, a plataforma também permitirá ao docente gerir trabalhos - disponibilização e controlo de submissões.
-
 ## Características dos Utilizadores e Stakeholders
 
 Como a equipa Flip Framework está a desenvolver um sistema de forma autónoma sem um cliente registado, o foco serão os nossos utilizadores finais (estudantes e docentes) e interesses dos stakeholders, para podermos oferecer o nosso sistema ao nosso potencial cliente, a Universidade de Coimbra.
